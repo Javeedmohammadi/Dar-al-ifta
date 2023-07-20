@@ -1,0 +1,11 @@
+.ck p{
+ color:#000;
+}
+.ck-dropdown{
+    display: none !important;
+}
+.ck-file-dialog-button,
+.ck-button .ck-off
+{
+    display: none;
+}
